@@ -1,0 +1,36 @@
+.Pokemon {
+  border: 1px #ccc solid;
+  padding: 5px;
+  width: 15%;
+  text-align: center;
+}
+
+.Pokemon p{
+ margin: 2px;
+}
+
+.Pokemon a{
+  text-decoration: none;
+}
+
+.Pokemon img{
+  margin: 5px;
+ }
+
+.pokedex {
+ font-size: small;
+ color: rgb(180, 180,180);
+}
+
+.pokename {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.types {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  box-sizing: border-box;
+  margin: 5px;
+}

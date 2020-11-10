@@ -1,0 +1,24 @@
+.Login {
+  width: 50%;
+  margin: auto;
+  padding-top: 50px;
+}
+
+input{
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px red solid;
+  border-radius: 5px;
+}
+
+button {
+  width: 80%;
+  background-color: black;
+  color: white;
+  margin: 10px 50px;
+  height: 25px;
+}
+
+p {
+  text-align: center;
+}
